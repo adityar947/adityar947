@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Ranjan</h1>
-<h3 align="center">Passionate about DevOps and Cloud, continuously honing my skills to solve real-world challenges and automating processes.</h3>
+<h3 align="center">👋 Hey everyone! I’m Aditya — a self-taught DevOps Engineer with a deep interest in open source, automation, and cloud-native tools. I work mostly with Docker, Kubernetes, CI/CD, Ansible, Terraform and AWS. I’ve been learning by doing, and now I’m shifting gears to give back by contributing to open-source projects and sharing practical DevOps content through blogs. Super excited to connect, learn from you all, and start contributing to meaningful projects. If there’s anything I can help with — count me in!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
 
@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adityar947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya ranjan" height="30" width="40" /></a>
+<a href="https://medium.com/@adityar947" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Medium" height="30" width="40" /></a>
 <!-- <a href="https://www.codechef.com/users/adityar947" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adityar947" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adityar947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityar947" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/adityar947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adityar947" height="30" width="40" /></a>
